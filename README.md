@@ -1,4 +1,4 @@
-# Aseprite
+# Harrison Noblett 
 
 [![Build Status](https://travis-ci.org/aseprite/aseprite.svg)](https://travis-ci.org/aseprite/aseprite)
 [![Build status](https://ci.appveyor.com/api/projects/status/kdu2gt7ls014i25h?svg=true)](https://ci.appveyor.com/project/dacap/aseprite)
